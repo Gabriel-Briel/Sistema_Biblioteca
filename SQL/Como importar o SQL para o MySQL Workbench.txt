@@ -1,0 +1,13 @@
+COMO IMPORTAR NO OUTRO COMPUTADOR
+
+Abra o MySQL Workbench e conecte ao MySQL.
+
+No menu, vá em Server > Data Import.
+
+Selecione Import from Self-Contained File e escolha o arquivo .sql que você enviou.
+
+Marque a opção “New Database” e escreva o nome (ex: bibliotecaa3).
+
+Clique em Start Import.
+
+Pronto! O banco será recriado com todas as tabelas e dados.
